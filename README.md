@@ -1,7 +1,8 @@
-# Amit Choudhary - Full Stack Developer Portfolio
+![image](https://github.com/user-attachments/assets/2c3f748e-03b7-48a2-8574-ae15f9703e89)# Amit Choudhary - Full Stack Developer Portfolio
 
 Welcome to my GitHub Portfolio! I'm Amit Choudhary, a passionate Full Stack Developer with a keen interest in building dynamic, user-friendly web applications. Feel free to explore my projects, skills, and experience.
 
+potfolio link to vist   http://127.0.0.1:3000/html/portfolio/index.html
 
 
 
